@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+:root{
+    color:palevioletred;
+    color: orchid;
+}
+
+body{
+    font-family: 
+    Bold / italic (sans);
+}
+#txt-input{ 
+    border: 1px solid black;
+    width: 30%;
+    height: 15vh;
+    margin-left: 35%;
+    margin-top: 23px;
+}
+#output{
+    border:1px solid black;
+    width: 30%;
+    height: 15vh;
+    margin-left: 35%;
+}
+.button{
+    margin-left: 35%;
+    text-align:left;
+    
+}
+
+#btn-translate{
+    background-color:palevioletred;;
+    max-width: 140px;
+    padding: 0.6rem 4rem; 
+    color:white;
+    margin: 0rem ;
+}
+.heading{
+    margin-top: 0px;
+    padding:50px;
+    background-color:palevioletred;
+    color:white;
+    text-align: center;
+}
+.footer{ padding:2rem;
+    background-color:palevioletred;;
+    text-align: center;
+    color:white
+}
+
+
